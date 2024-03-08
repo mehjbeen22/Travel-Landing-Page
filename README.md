@@ -22,19 +22,7 @@ The Travel Landing Page is a visually appealing and interactive web page designe
 
 - **JavaScript**: JavaScript is utilized to add dynamic behavior and interactivity to the page, including event handling and DOM manipulation.
 
-## Usage
 
-To view the Travel Landing Page, simply open the `index.html` file in a web browser. Alternatively, you can visit [Demo Link] to see the live version of the page.
 
-## Future Improvements
 
-While the current version of the Travel Landing Page serves its purpose effectively, there are several areas where future enhancements could be made:
-
-- Integration of backend technologies for dynamic content management.
-- Implementation of advanced animations and transitions for a more immersive user experience.
-- Incorporation of user authentication and personalized recommendations for registered users.
-
-## Contributing
-
-Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or general improvements, feel free to submit a pull request.
 
